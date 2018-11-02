@@ -5,20 +5,19 @@
   "author": "Bob Bergman <rbergman@atlassian.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
-    "hubot": "latest",
-    "hubot-diagnostics": "latest",
-    "hubot-google-images": "latest",
-    "hubot-google-translate": "latest",
-    "hubot-help": "latest",',
-    "hubot-heroku-keepalive": "latest",
-    "hubot-hipchat": "latest",
-    "hubot-maps": "latest",
-    "hubot-pugme": "latest",
-    "hubot-redis-brain": "latest",
-    "hubot-rules": "latest",
-    "hubot-scripts": "latest",
-    "hubot-shipit": "latest",
-    "hubot-youtube": "latest"
+    "hubot": "3.1.1",
+    "hubot-diagnostics": "1.0.0",
+    "hubot-google-images": "0.2.7",
+    "hubot-google-translate": "0.2.1",
+    "hubot-help": "1.0.1",',
+    "hubot-heroku-keepalive": "1.0.3",
+    "hubot-hipchat": "master",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "0.1.1",
+    "hubot-redis-brain": "1.0.0",
+    "hubot-rules": "1.0.0",
+    "hubot-shipit": "0.2.1",
+    "hubot-youtube": "1.1.1"
   },
   "engines": {
     "node": "5"
