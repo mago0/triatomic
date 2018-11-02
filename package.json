@@ -1,0 +1,11 @@
+{
+  {
+  "name": "triatomic",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Bob Bergman <rbergman@atlassian.com>",
+  "description": "A simple helpful robot for your Company",
+  "engines": {
+    "yarn": "1.12.1"
+  }
+}
