@@ -1,7 +1,7 @@
 {
   "name": "triatomic",
   "version": "0.1.0",
-  "author": "Bob Bergman <rbergman@atlassian.com>",
+  "author": "Bob Bergman <rbergman@atlassian.com>, Matt Williams <matt.williams@flosports.tv",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "3.1.1",
