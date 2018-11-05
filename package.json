@@ -7,14 +7,12 @@
     "hubot": "3.1.1",
     "hubot-hipchat": "2.12.0-6",
     "hubot-diagnostics": "1.0.0",
-    "hubot-google-translate": "0.2.1",
     "hubot-help": "1.0.1",
     "hubot-heroku-keepalive": "1.0.3",
     "hubot-hipchat": "2.12.0",
     "hubot-redis-brain": "1.0.0",
     "hubot-rules": "1.0.0",
-    "hubot-shipit": "0.2.1",
-    "hubot-youtube": "1.1.1"
+    "hubot-shipit": "0.2.1"
   },
   "engines": {
     "node": "= 10.12.0",
