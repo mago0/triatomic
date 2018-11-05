@@ -1,3 +1,3 @@
 @echo off
 
-yarn install && node_modules\.bin\hubot.cmd --name "triatomic" %* 
+npm install && node_modules\.bin\hubot.cmd --name "triatomic" %* 
