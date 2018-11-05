@@ -1,0 +1,12 @@
+{
+  "name": "triatomic",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Bob Bergman <rbergman@atlassian.com>, Matt Williams <matt.williams@flosports.tv",
+  "description": "A simple helpful robot for your Company",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.x",
+    "yarn": "1.x"
+  }
+}
