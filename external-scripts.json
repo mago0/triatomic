@@ -6,5 +6,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-karma",
-  "hubot-pager-me"
+  "hubot-pager-me",
+  "hubot-github-repo-event-notifier",
+  "hubot-appearin"
 ]

@@ -13,7 +13,9 @@
     "hubot-redis-brain": "1.0.0",
     "hubot-rules": "1.0.0",
     "hubot-karma": "0.2.3",
-    "hubot-pager-me": "3.0.1"
+    "hubot-pager-me": "3.0.1",
+    "hubot-github-repo-event-notifier": "1.8.1",
+    "hubot-appearin": ">= 1.0.0"
   },
   "engines": {
     "node": "= 10.12.0",
